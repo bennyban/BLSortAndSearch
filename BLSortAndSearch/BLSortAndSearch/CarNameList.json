@@ -1,0 +1,114 @@
+[
+    {
+        "brand_id": 48,
+        "brand_name": "长城"
+    },
+    {
+        "brand_id": 49,
+        "brand_name": "江淮"
+    },
+    {
+        "brand_id": 50,
+        "brand_name": "红旗"
+    },
+    {
+        "brand_id": 5,
+        "brand_name": "宝马"
+    },
+    {
+        "brand_id": 3,
+        "brand_name": "大众"
+    },
+    {
+        "brand_id": 14,
+        "brand_name": "本田"
+    },
+    {
+        "brand_id": 15,
+        "brand_name": "标致"
+    },
+    {
+        "brand_id": 16,
+        "brand_name": "别克"
+    },
+    {
+        "brand_id": 17,
+        "brand_name": "长安"
+    },
+    {
+        "brand_id": 18,
+        "brand_name": "丰田"
+    },
+    {
+        "brand_id": 19,
+        "brand_name": "福特"
+    },
+    {
+        "brand_id": 20,
+        "brand_name": "路虎"
+    },
+    {
+        "brand_id": "47",
+        "brand_name": "北汽"
+    },
+    {
+        "brand_id": 6,
+        "brand_name": "东风"
+    },
+    {
+        "brand_id": 10,
+        "brand_name": "宝骏"
+    },
+    {
+        "brand_id": 9,
+        "brand_name": "奥迪"
+    },
+    {
+        "brand_id": 11,
+        "brand_name": "保时捷"
+    },
+    {
+        "brand_id": 13,
+        "brand_name": "比亚迪"
+    },
+    {
+        "brand_id": 7,
+        "brand_name": "奔驰"
+    },
+    {
+        "brand_id": 21,
+        "brand_name": "奇瑞"
+    },
+    {
+        "brand_id": 22,
+        "brand_name": "起亚"
+    },
+    {
+        "brand_id": 23,
+        "brand_name": "日产"
+    },
+    {
+        "brand_id": 24,
+        "brand_name": "荣威"
+    },
+    {
+        "brand_id": 25,
+        "brand_name": "三菱"
+    },
+    {
+        "brand_id": 26,
+        "brand_name": "现代"
+    },
+    {
+        "brand_id": 27,
+        "brand_name": "雪佛兰"
+    },
+    {
+        "brand_id": 28,
+        "brand_name": "雪铁龙"
+    },
+    {
+        "brand_id": 29,
+        "brand_name": "中华"
+    }
+]
